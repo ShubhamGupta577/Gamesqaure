@@ -52,7 +52,7 @@ int main()
 
 void welcome()								//Function for opening screen
 {
-	system("color 70");
+	system("color 07");				//Function to change background and font colour
 	Sleep(500);
 	gotoxy(0,10);	
 	printf("   _____          __  __ ______  _____  ____           _    _ _____  ______ ");
@@ -66,22 +66,14 @@ void welcome()								//Function for opening screen
 	printf(" | |__| |/ ____ \\| |  | | |____ ____) | |__| | / ____ \\ |__| | | \\ \\| |____ ");
 	gotoxy(0,15);Sleep(350);
 	printf("  \\_____/_/    \\_\\_|  |_|______|_____/ \\___\\_\\/_/    \\_\\____/|_|  \\_\\______|");
-	gotoxy(55,17);Sleep(1000);
-	printf("Made by:- Garima Goyal");
-	gotoxy(65,18);
-	Sleep(350);
-	printf("Arnab Saha");
-	gotoxy(65,19);
-	Sleep(350);
-	printf("Shubham Gupta");
 	do{
 	    Sleep(500);
-		gotoxy(17,20);
-		printf("                              ");
-		Sleep(500);
-		gotoxy(17,20);
+	    gotoxy(45,18);
+	    printf("                              ");
+	    Sleep(500);
+	    gotoxy(45,18);
 		
-		printf("Enter any key to start......\n");
+	    printf("Enter any key to start......\n");
 	}while(!kbhit());
 	getch();
 }

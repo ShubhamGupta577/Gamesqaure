@@ -11,3 +11,14 @@ Matchtrix is a game where you have **to pick matchsticks minimum 1 to maximum 4*
 
 ## :game_die: **Puzznic**
 Puzznic is an interestingly challenging game where **you have to arrange the jumbled up numbers in sequential manner in a matrix of 4x4 under 500 moves.** For moving in puzzle you have to use arrow keys, and at any time during the game use 'ESC’ button for back to menu.
+
+# :video_game: **How to play on your machine**
+* Download the .exe file from this link - [GameSqaure](https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Gamesqaure.exe) and run on your machine. It is totally safe.
+* Download the code given in file [GameSqaure_code](https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Gamesqaure.c) and run it in any C/C++ compatible compiler present in your machine
+
+# :computer: **Output Images**
+<img src="https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Images/Instructions.png" width="850"> 
+
+<img src="https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Images/Hand_Cricket.png" width="850">
+
+<img src="https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Images/MatchTrix.png" width="850">

@@ -1,5 +1,6 @@
-![Game](https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Games.png)
-# :video_game: **GameSquare**
+<img src="https://github.com/ShubhamGupta577/Gamesqaure/blob/master/Images/games2.png" width="800">  
+
+<!--# :video_game: **GameSquare**-->
 This project is all about short command based games in one application, we have integrated 3 amazing games **Hand cricket, Matchtrix and Puzznic.** You may have played this game but not with computer, so here now you can play it anywhere anytime.
 
 ## :cricket_game: **Hand Cricket**

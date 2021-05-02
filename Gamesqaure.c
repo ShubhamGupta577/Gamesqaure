@@ -847,7 +847,8 @@ int menu()									//Menu function for choice
 	}
 }
 //End for Puzznic
-void gotoxy(short x, short y)           //definition of gotoxy function//                                               
+
+void gotoxy(short x, short y)           //definition of gotoxy function                                            
 {
  COORD pos ={x,y};
  SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);

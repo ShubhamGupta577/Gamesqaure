@@ -1,7 +1,7 @@
 #include<windows.h>							//For Sleep() and console
 #include<stdlib.h>							//For fflush() and random
-#include<string.h>
-#include<stdio.h>
+#include<string.h>							//For using string functions
+#include<stdio.h>							//For standard input/output
 #include<conio.h>							//For getch()
 #include<time.h>							//For time(NULL)
 
